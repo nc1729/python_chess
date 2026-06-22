@@ -1,6 +1,6 @@
 # python_chess
 
-This project is a Python 3 implementation of chess, for one or two players.
+This project is a Python 3 implementation of chess, for one or two players. I wrote this in about 2019, so it's a bit primitive, but I have a soft spot for it. It's a small destination of object-oriented Python, anyhow. The AI is also very funny, it just picks random legal moves. There's a non-zero chance it could beat Magnus Carlsen, so it's clearly the best chess engine ever written ;)
 
 ## Dependencies
 This project requires the Pygame module to run; it's tested under version 1.9.6. I believe everything else is Python inbuilt modules.
